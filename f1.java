@@ -1,0 +1,2 @@
+puclic static void main(){
+}
